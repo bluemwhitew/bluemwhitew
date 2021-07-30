@@ -20,7 +20,7 @@ Smash that Like button, hit Subscribe, etc. etc.
 <img align="left" alt="Elasticsearch" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png" width="32px"/>
 <img align="left" alt="Eleventy" src="https://raw.githubusercontent.com/github/explore/5b2680c3a2b1a19ad49dfc354d2ccc6c1c333381/topics/eleventy/eleventy.png" width="32px"/>
 <img align="left" alt="ESLint" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" width="32px"/>
-<img align="left" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="32px"/>
+<img align="left" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="32px"/>
 <img align="left" alt="Google Cloud" src="https://raw.githubusercontent.com/github/explore/673d689e4192d167c76cd07fcaf9f0d3401ead30/topics/google-cloud/google-cloud.png" width="32px"/>
 <img align="left" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" width="32px"/>
 <img align="left" alt="Gulp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" width="32px"/>
